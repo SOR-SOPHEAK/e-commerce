@@ -1,7 +1,7 @@
 <template>
-    <div class="product">
+    <!-- <div class="product">
         <h1>This is an product page</h1>
-    </div>
+    </div> -->
   </template>
   
   <style>
