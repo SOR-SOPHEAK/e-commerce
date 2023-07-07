@@ -1,7 +1,7 @@
 # E-Commerce
 
 
-Ecommerce Clothing Shop Project is in branch <b>Ecommerce Clothing Shop</b>, and the hosting URL  <a href='https://sor-sopheak.github.io/stylemingle.github.io/'>https://sor-sopheak.github.io/stylemingle.github.io/</a>
+Ecommerce Clothing Shop Project moved to repository <b>InternetProgramming-Course</b> with the branch <b>E-commerce-web_project</b>
 
 This template should help get you started developing with Vue 3 in Vite.
 
